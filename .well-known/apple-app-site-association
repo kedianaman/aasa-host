@@ -1,0 +1,11 @@
+{
+  "applinks": {
+    "apps": [],
+    "details": [
+      {
+        "appID": "T252EPP745.namankedia.Splitsies",
+        "paths": [ "/plaid/*" ]
+      }
+    ]
+  }
+}
